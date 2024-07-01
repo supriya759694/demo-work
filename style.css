@@ -1,0 +1,14 @@
+.main{
+    width: 1000px;
+    height: 400px;
+    background: red;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+.main :hover{
+    height: 300px;
+    color: black;
+    background-color: green;
+}
